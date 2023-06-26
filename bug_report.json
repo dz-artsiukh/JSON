@@ -10,6 +10,7 @@
                             "3.": "Hover over [أكثر] ([More]) menu"
                             "4.": "Click on menu item [شركاؤنا] ([Our partners])",
                             "": "Note: The bug is also reproduced for the mobile"
+                        } ]
                 "Expected result": "[Become a partner] button is translated to AR",
                 "Actual result": "[Become a partner] button isn't translated to AR",
                 "License": "ALL",
